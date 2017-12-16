@@ -1,6 +1,8 @@
 Test Task
 ====
 
+See purpose in [TASK.md](./TASK.md).
+
 ### Run
 ```
 npm i
